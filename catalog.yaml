@@ -106,7 +106,7 @@ entries:
       - Prophet
       - Forecasting 
     git_url: "https://github.com/fletchjeff/cml_flight_demo"
-    coming_soon: true
+    coming_soon: false
 
 
   - title: Airline Delay Prediction
