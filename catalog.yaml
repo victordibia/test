@@ -94,7 +94,7 @@ entries:
     is_prototype: true
 
   - title: Parametric Curve Fitting For Trend Analysis
-    label: airline
+    label: curve_fitting
     short_description: Flight analytics and cancellation prediction with pyspark and sparklyr.
     long_description: >-
       This project demonstrates how to analyze and forecast trends on a collection of 
