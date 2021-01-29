@@ -95,14 +95,16 @@ entries:
 
   - title: Parametric Curve Fitting For Trend Analysis
     label: curve_fitting
-    short_description: Flight analytics and cancellation prediction with pyspark and sparklyr.
+    short_description: Parametric Curve Fitting For Trend Analysis.
     long_description: >-
       This project demonstrates how to analyze and forecast trends on a collection of 
       time-series datasets. Using parametric curve fitting approaches. In this example, we focus on polynomial models, and additive regression models (using the prophet library).
     image_path: >-
       https://raw.githubusercontent.com/cloudera/Applied-ML-Prototypes/master/images/curvefitting.jpg
     tags:
-      - xgboost
+      - Curve fitting
+      - Prophet
+      - Forecasting 
     git_url: "https://github.com/fletchjeff/cml_flight_demo"
     coming_soon: true
 
