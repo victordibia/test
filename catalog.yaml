@@ -104,8 +104,7 @@ entries:
       - Curve fitting
       - Prophet
       - Forecasting 
-    git_url: "https://github.com/victordibia/cml_curvefitting"
-    coming_soon: false
+    git_url: "https://github.com/victordibia/cml_curvefitting" 
     is_prototype: true
 
   - title: Analyzing News Headlines with SpaCy
