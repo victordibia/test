@@ -73,7 +73,6 @@ entries:
       - Question Answering
       - BERT
       - NLP
-    git_url: "https://github.com/cloudera/CML_AMP_NeuralQA"
     is_prototype: true
 
   - title: Structural Time Series
