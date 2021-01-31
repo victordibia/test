@@ -105,7 +105,7 @@ entries:
       - Curve fitting
       - Prophet
       - Forecasting 
-    git_url: "https://github.com/fletchjeff/cml_flight_demo"
+    git_url: "https://github.com/victordibia/cml_curvefitting"
     coming_soon: false
 
 
