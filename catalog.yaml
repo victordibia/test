@@ -107,6 +107,7 @@ entries:
       - Forecasting 
     git_url: "https://github.com/victordibia/cml_curvefitting"
     coming_soon: false
+    is_prototype: true
 
   - title: Analyzing News Headlines with SpaCy
     label: spacy-entity-extraction
